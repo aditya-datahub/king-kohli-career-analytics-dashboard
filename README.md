@@ -94,6 +94,3 @@ This project is part of my **Data Analyst portfolio**, showcasing end-to-end das
 4. Interact with filters & visuals  
 
 ---
-
-
-## 📂 Repository Structure
