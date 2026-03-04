@@ -13,18 +13,6 @@ This project demonstrates data cleaning, data modeling, DAX calculations, and bu
 
 ---
 
-## 🚀 Project Highlights
-
-- 📈 24K+ International Runs Analysis  
-- 🏏 516 Total Matches Overview  
-- 💯 77 Centuries & 129 Half-Centuries Tracking  
-- 🎯 Highest Score: 254  
-- 📅 Dynamic Date Range Slicer (2008–2022)  
-- 🌍 Opponent-wise Performance Comparison  
-- 📊 Year-wise Run Trend Analysis  
-
----
-
 ## 📌 Key KPIs Used
 
 |  |  |  |
@@ -32,6 +20,25 @@ This project demonstrates data cleaning, data modeling, DAX calculations, and bu
 | 📈 **Total Runs** | 🏏 **Total Matches** | 🎯 **Highest Score** |
 | 💯 **100s (Centuries)** | 🏅 **50s (Half-Centuries)** | 🔢 **30+ Scores** |
 | 🌍 **Runs by Opponent** | 📊 **Team Match Count** | 📅 **Runs by Year** |
+
+---
+
+## 📈 Analytical Insights
+
+- England & Australia are among the highest run-scoring opponents.
+- Peak career phase observed between 2016–2018.
+- Strong consistency across formats with high 50+ conversion rate.
+- Clear performance trend visualization through interactive yearly line charts.
+
+---
+
+## 🚀 Project Highlights
+
+- 📅 Dynamic Date Range Slicer (2008–2022)  
+- 🌍 Opponent-wise Performance Comparison  
+- 📊 Year-wise Run Trend Analysis  
+- 📈 KPI-driven Dashboard Design  
+- 📉 Interactive Filters & Slicers  
 
 ---
 
@@ -63,24 +70,15 @@ king-kohli-career-analytics-dashboard/
 
 ---
 
-## 📈 Analytical Insights
-
-- England & Australia are among the highest run-scoring opponents.
-- Peak career phase observed between 2016–2018.
-- Strong consistency across formats with high 50+ conversion rate.
-- Clear performance trend visualization through interactive yearly line charts.
-
----
-
 ## 🎯 What This Project Demonstrates
 
 ✔ Real-world KPI-driven analysis  
-✔ Data storytelling capability  
+✔ Strong data storytelling capability  
 ✔ Dashboard UI/UX design principles  
-✔ Interactive filtering & slicers  
-✔ Business-style reporting approach  
+✔ Interactive reporting experience  
+✔ End-to-end BI workflow implementation  
 
-This project is part of my **Data Analyst Portfolio**, showcasing end-to-end dashboard development using Power BI.
+This project is part of my **Data Analyst Portfolio**, showcasing practical dashboard development using Power BI.
 
 ---
 
