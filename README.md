@@ -27,15 +27,11 @@ This project demonstrates data cleaning, data modeling, DAX calculations, and bu
 
 ## 📌 Key KPIs Used
 
-- Total Runs  
-- Total Matches  
-- Highest Score  
-- 100s (Centuries)  
-- 50s (Half-Centuries)  
-- 30+ Scores  
-- Runs by Opponent  
-- Team Match Count by Opponent  
-- Runs by Year  
+|  |  |  |
+|---|---|---|
+| 📈 **Total Runs** | 🏏 **Total Matches** | 🎯 **Highest Score** |
+| 💯 **100s (Centuries)** | 🏅 **50s (Half-Centuries)** | 🔢 **30+ Scores** |
+| 🌍 **Runs by Opponent** | 📊 **Team Match Count** | 📅 **Runs by Year** |
 
 ---
 
