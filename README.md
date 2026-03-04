@@ -37,11 +37,10 @@ This project demonstrates data cleaning, data modeling, DAX calculations, and bu
 
 ## 🛠 Tech Stack
 
-- **Power BI Desktop**
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Cleaning & Transformation (Power Query)
-- Interactive Data Visualization
+|  |  |  |
+|---|---|---|
+| 📊 **Power BI Desktop** | 📐 **DAX (Data Analysis Expressions)** | 🗂 **Data Modeling** |
+| 🧹 **Data Cleaning (Power Query)** | 📈 **Interactive Visualization** |  |
 
 ---
 
