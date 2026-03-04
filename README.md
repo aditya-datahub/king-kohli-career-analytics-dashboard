@@ -1,7 +1,7 @@
 # 👑 King Kohli Career Analytics Dashboard | Power BI
 
 An interactive **Power BI dashboard** analyzing Virat Kohli’s ODI & T20 international career performance (2008–2022).  
-This project demonstrates data cleaning, modeling, DAX calculations, and business-focused storytelling using sports analytics.
+This project demonstrates data cleaning, data modeling, DAX calculations, and business-focused storytelling using sports analytics.
 
 ---
 
@@ -44,7 +44,7 @@ This project demonstrates data cleaning, modeling, DAX calculations, and busines
 - **Power BI Desktop**
 - DAX (Data Analysis Expressions)
 - Data Modeling
-- Data Cleaning & Transformation
+- Data Cleaning & Transformation (Power Query)
 - Interactive Data Visualization
 
 ---
@@ -59,10 +59,13 @@ king-kohli-career-analytics-dashboard/
 ├── images/
 │ └── dashboard.png
 │
-├── King_Kohli_Dashboard.pbix
+├── dashboard/
+│ └── vk_dashboard.pbix
+│
 ├── README.md
 └── LICENSE
 ```
+
 ---
 
 ## 📈 Analytical Insights
@@ -70,27 +73,29 @@ king-kohli-career-analytics-dashboard/
 - England & Australia are among the highest run-scoring opponents.
 - Peak career phase observed between 2016–2018.
 - Strong consistency across formats with high 50+ conversion rate.
-- Noticeable performance trends visible via year-based line chart.
+- Clear performance trend visualization through interactive yearly line charts.
 
 ---
 
 ## 🎯 What This Project Demonstrates
 
-✔ Real-world KPI analysis  
-✔ Data storytelling skills  
-✔ Dashboard design principles  
+✔ Real-world KPI-driven analysis  
+✔ Data storytelling capability  
+✔ Dashboard UI/UX design principles  
 ✔ Interactive filtering & slicers  
 ✔ Business-style reporting approach  
 
-This project is part of my **Data Analyst portfolio**, showcasing end-to-end dashboard development.
+This project is part of my **Data Analyst Portfolio**, showcasing end-to-end dashboard development using Power BI.
 
 ---
 
 ## 📥 How to Use
 
 1. Clone the repository  
-2. Download the `.pbix` file  
-3. Open using **Power BI Desktop**  
-4. Interact with filters & visuals  
+2. Navigate to the `dashboard/` folder  
+3. Open `vk_dashboard.pbix` using **Power BI Desktop**  
+4. Explore interactive filters and visuals  
 
 ---
+
+⭐ If you found this project helpful, consider giving it a star!
